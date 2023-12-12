@@ -1,5 +1,4 @@
-# project4_group3
-Project 4 : Stocks: What would My Rich Dad Do? 
+# Project 4 : Stocks: What would My Rich Dad Do? 
 
 
 ## BACKGROUND:
@@ -17,7 +16,7 @@ Project 4 : Stocks: What would My Rich Dad Do?
 A stock market is a public market where you can buy and sell shares for publicly listed companies. The stocks (also known as equities) represent ownership stakes in the company. The stock exchange is the mediator that allows the buying and selling of shares.
 
 
-![Picture1](https://github.com/d-p1/project4_group3/assets/134445591/8eb0b0fc-28ef-43e5-8f05-9b18d7a89eaa)
+    ![Picture1](https://github.com/d-p1/project4_group3/assets/134445591/8eb0b0fc-28ef-43e5-8f05-9b18d7a89eaa)
 
 
 
