@@ -8,7 +8,7 @@ BACKGROUND:
 Key Objectives:
 1. Find Historical data on the NASDAQ
 2. Use pandas to clean up  dataset
-3. Postges will be used to analyze the data.
+3. Postgres will be used to analyze the data.
 4. Tableau to visualize the data.
 5. Use unsupervised machine learning to predict the trend. 
 
