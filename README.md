@@ -1,15 +1,14 @@
-# Project 4 : Stocks: What would My Rich Dad Do? 
+# Project 4 : Stocks: What Would My Rich Dad Do? 
 
 
 ## BACKGROUND:
-Welcome to a journey into the dynamic world of stocks, where we embark on an exploration of financial data and market trends with the overarching question in mind: What would My Rich dad do? In this project, we delve into the intricacies of stock market behavior, employing a multifaceted approach to analyze historical data from the renowned NASDAQ.
+Welcome to a journey into the dynamic world of stocks, where we embark on an exploration of financial data and market trends with the overarching question in mind: What would my rich dad do? In this project, we delve into the intricacies of stock market behavior, employing a multifaceted approach to analyze and predict stock trends obtained from YAHOO Finance.
 
 ## Key Objectives:
-1. Find Historical data on the NASDAQ
-2. Use pandas to clean up dataset.
-3. Postgres will be used to analyze the data.
-4. Tableau to visualize the data.
-5. Use unsupervised machine learning to predict the trend. 
+1. Find the TSLA stock data using YAHOO Finance.
+2. Use Postgres to retrieve and organize the dataset.
+3. Pandas will be used to analyze the data.
+4. Use unsupervised machine learning to optimize and predict the TSLA trend with at least 75% classification accuracy. 
 
 ## What is the Stock Market?
 
@@ -20,11 +19,27 @@ A stock market is a public market where you can buy and sell shares for publicly
 
 
 
-Tesla is a US automotive company that officially became a part of S&P 500 Index on December 21,2020. The S&P 500 or Standard & Poor’s 500 Index is a market capitalization-weighted index of the 500 largest US places open. It is considered to be the best indicator of wide-ranging US stocks. With increasing shares in Tesla, the market value has increased to $775.15 billion. There are many who are skeptical of Tesla’s company performance and feel the stock is overvalued.
-
-We focused on the TSLA stock in order to answer the question: With the recent release of the Cybertruck, how will Tesla’s stock performance change over 180 days?
+Tesla is a US automotive company that officially became a part of S&P 500 Index on December 21,2020. The S&P 500 or Standard & Poor’s 500 Index is a market capitalization-weighted index of the 500 largest US places open. It is considered to be the best indicator of wide-ranging US stocks. With increasing shares in Tesla, the market value has increased to around $775 billion. There are many who are skeptical of Tesla’s company performance and feel the stock is overvalued.
 
 
+Now with the recent release of the Cybertruck, we ask a question: how will Tesla's stock performance change over 180 days? 
+
+Using machine learning, we will predict the trend for the TSLA stock and determine whether the stock is truly overvalued or not.
+
+# Analysis:
+
+## After analyzing the historical data and predicting the TSLA stock performance over 180 days, we noticed:
+
+### Pros:
+* Our initial goal was to get at least 75% classification accuracy but we ended up getting a 85% accuracy
+* RSME of 9.21 is more accurate than RSME of the initial test, 12
+* There is a postive correlation between the days of prediction and RSME vlaue (the more days for prediction led to a smaller RSME value) 
+
+### Cons:
+* Although our data had a 85% accuracy, the prediction fell slightly short of the valid closing price
+* Stock market in general is hard to predict, wouldn't we all be billionaires if we could predict with 100% accuracy?
+
+Overall, Tesla actual performance exceeds the machine learning predictions, proving that the stock is not overvalued to the dismay of critics and may continue performing well with the recent release of the Cybertruck.
  
 
  
