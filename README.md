@@ -28,7 +28,7 @@ Using machine learning, we will predict the trend for the TSLA stock and determi
 
 # Analysis:
 
-## After analyzing the historical data and predicting the TSLA stock performance over 180 days, we noticed:
+## After analyzing the historical data and predicting the TSLA stock performance over 60 days, we noticed:
 
 ### Pros:
 * Our initial goal was to get at least 75% classification accuracy but we ended up getting a 56% accuracy
