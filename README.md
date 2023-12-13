@@ -31,15 +31,15 @@ Using machine learning, we will predict the trend for the TSLA stock and determi
 ## After analyzing the historical data and predicting the TSLA stock performance over 180 days, we noticed:
 
 ### Pros:
-* Our initial goal was to get at least 75% classification accuracy but we ended up getting a 85% accuracy
-* RSME of 9.21 is more accurate than RSME of the initial test, 12
-* There is a postive correlation between the days of prediction and RSME vlaue (the more days for prediction led to a smaller RSME value) 
+* Our initial goal was to get at least 75% classification accuracy but we ended up getting a 56% accuracy
+* RSME of 7.37 is more accurate than RSME of the initial test, 12 when we were testing over 180 days and 10 epochs
+* There is a positive correlation between the days of prediction and RSME value. The higher number of days we test, the closer to zero the RSME becomes, meaning our model is more accurate 
 
 ### Cons:
-* Although our data had a 85% accuracy, the prediction fell slightly short of the valid closing price
+* Although our data had a 56% accuracy, the prediction close to the valid closing price
 * Stock market in general is hard to predict, wouldn't we all be billionaires if we could predict with 100% accuracy?
 
 Overall, Tesla actual performance exceeds the machine learning predictions, proving that the stock is not overvalued to the dismay of critics and may continue performing well with the recent release of the Cybertruck.
- 
+
 
  
