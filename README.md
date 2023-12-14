@@ -22,7 +22,7 @@ A stock market is a public market where you can buy and sell shares for publicly
 Tesla is a US automotive company that officially became a part of S&P 500 Index on December 21,2020. The S&P 500 or Standard & Poor’s 500 Index is a market capitalization-weighted index of the 500 largest US places open. It is considered to be the best indicator of wide-ranging US stocks. With increasing shares in Tesla, the market value has increased to around $775 billion. There are many who are skeptical of Tesla’s company performance and feel the stock is overvalued.
 
 
-Now with the recent release of the Cybertruck, we ask a question: how will Tesla's stock performance change over 180 days? 
+Now with the recent release of the Cybertruck, we ask a question: how will Tesla's stock performance change over 60 days? 
 
 Using machine learning, we will predict the trend for the TSLA stock and determine whether the stock is truly overvalued or not.
 
