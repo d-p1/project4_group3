@@ -41,7 +41,7 @@ Using machine learning, we will predict the trend for the TSLA stock and determi
 * Although our data had a 56% accuracy, the prediction close to the valid closing price
 * Stock market in general is hard to predict, wouldn't we all be billionaires if we could predict with 100% accuracy?
 
-Overall, Tesla actual performance exceeds the machine learning predictions, proving that the stock is not overvalued to the dismay of critics and may continue performing well with the recent release of the Cybertruck.
+Overall, Tesla's actual performance exceeds the machine learning predictions, proving that the stock is not overvalued to the dismay of critics and may continue performing well with the recent release of the Cybertruck.
 
 ### Team Insight:
 
