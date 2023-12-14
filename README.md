@@ -32,8 +32,8 @@ Using machine learning, we will predict the trend for the TSLA stock and determi
 
 ### Pros:
 
-* Our initial goal was to get at least 75% classification accuracy but we ended up getting a 56% accuracy
-* RSME of 7.37 is more accurate than RSME of the initial test, 12 when we were testing over 180 days and 10 epochs
+* Our initial goal was to get at least 75% classification accuracy but we ended up getting a 47% accuracy
+* RSME of 9.36 is more accurate than RSME of the initial test, 12 when we were testing over 180 days and 10 epochs
 * There is a positive correlation between the days of prediction and RSME value
 
 ### Cons:
