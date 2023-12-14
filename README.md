@@ -43,6 +43,12 @@ Using machine learning, we will predict the trend for the TSLA stock and determi
 
 Overall, Tesla actual performance exceeds the machine learning predictions, proving that the stock is not overvalued to the dismay of critics and may continue performing well with the recent release of the Cybertruck.
 
+### Team Insight:
+
+The most challenging part of the project was finding the highest accuracy when running the models. 
+We kept track of each test in Excel, identifying what layer, number of days, and epoch number combination worked best to reach the highest accuracy result.
+Because each team member attempted these tests on their local machines, we came to the realization, that we would all continue to get different outcomes due to not having a random state. Therefore, if we were to run the same script multiple times, each outcome would be a different result. Meaning that the data outcome is not replicable in a different machine. This made getting the highest accuracy score more challenging than anticipated.
+
 ## Data Source
 Tesla Historical Dataset from Yahoo Finance
 https://finance.yahoo.com/quote/TSLA/history/
