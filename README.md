@@ -1,8 +1,8 @@
-# Project 4 : Stocks: What Would My Rich Dad Do? 
+# Project 4 : Stocks: Cybertruck is out. Should we buy Tesla stocks?
 
 
 ## BACKGROUND:
-Welcome to a journey into the dynamic world of stocks, where we embark on an exploration of financial data and market trends with the overarching question in mind: What would my rich dad do? In this project, we delve into the intricacies of stock market behavior, employing a multifaceted approach to analyze and predict stock trends obtained from YAHOO Finance.
+Welcome to a journey into the dynamic world of stocks, where we embark on an exploration of financial data and market trends with the overarching question in mind: With the release of the Cyberstruck, should we buy Tesla stocks? In this project, we delve into the intricacies of stock market behavior, employing a multifaceted approach to analyze and predict stock trends obtained from YAHOO Finance.
 
 ## Key Objectives:
 1. Find the TSLA stock data using YAHOO Finance.
